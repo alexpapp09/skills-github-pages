@@ -20,7 +20,7 @@ author: Alexandra Papp
    - Mast varsity team
 <p align="center">
    <img src="https://github.com/user-attachments/assets/60cd538b-7866-4f91-9ad5-073795956ef8" width="500">
-
+</p>
   
 4. Listening to music
    - Favorite artist: Beatles
@@ -30,7 +30,7 @@ author: Alexandra Papp
 I was born in New York City and moved to Miami 7 years ago. My mother is from Mexico although she alo has a very spanish background frmo Madrid. My father is greek american, born in Boston. 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c722c027-7e00-4b04-9192-528cd8acbd34" alt="D4CC02C4-A096-4823-B8BE-FABBEF83F03B" width="500">
-
+</p>
 
 
 ## Academics 
@@ -52,7 +52,7 @@ I was born in New York City and moved to Miami 7 years ago. My mother is from Me
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/6b77dd46-d03c-4fb7-a3fd-4ca5117d3b81" width="500">
-
+</p>
 
 ### Summer Checklist
 - [ ] Read Wuthering Heights + write essay
